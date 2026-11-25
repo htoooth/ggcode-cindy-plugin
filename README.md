@@ -1,4 +1,4 @@
-# GGCode Harness
+# GGCode Cindy Plugin
 
 > 将本机安装的 `ggcode` 接入 Cindy，作为 Cindy 任务执行引擎（Harness / ACP）。
 
